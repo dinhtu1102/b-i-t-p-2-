@@ -7,6 +7,8 @@
 
 1 TỔ CHỨC CSDL CHO HỆ THỐNG QUẢN LÝ TIỆM CẦM ĐỒ: viết tay ra giấy, lấy điện thoại chụp lại, upload ảnh lên github (đã nói về các nghiệp vụ trên lớp, ghi bảng)
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/8d35882c-6874-47f9-8f56-1c196960af85" />
+
 2 SỬ DỤNG DOCKER TRÊN UBUNTU ĐỂ:
 
 *  PHẦN 1 — CHUẨN BỊ UBUNTU
